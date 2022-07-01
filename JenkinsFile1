@@ -3,7 +3,7 @@ new commit  pipeline{
         jdk 'myjava'
         maven 'mymaven131'
     }
-    //commit on github-- new one-- comment added to verify the auto bild
+    //commit on github-- new one-- comment added to verify the jenkins auto build....
     agent any
     new ctsage added
     stages{
